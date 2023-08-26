@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.AplikasiJuzAmma." parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#18751C</item>
+        <item name="colorPrimaryVariant">#18751C</item>
+        <item name="colorOnPrimary">#1C9121</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#18751C</item>
+        <item name="colorSecondaryVariant">#18751C</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">#118291</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+</resources>
